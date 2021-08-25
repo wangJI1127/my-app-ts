@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+//    配置绝对路径
+    "baseUrl": "./src",
     "target": "es5",
     "lib": [
       "dom",
